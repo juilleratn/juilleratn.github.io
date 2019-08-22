@@ -1,10 +1,28 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: Triominci plus
+  link: 
+  job_title: Commercial phyto alimentaire
+  dates: Avril 2018-juillet 2018
   quote: >
-   Short description of the company (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of role
+         Représentant de la marque Triominci+ auprès des instituts de soins, de la beauté et de l'alimentation dans la région Occitanie.
+
+- layout: left
+  company: Cora Belfort
+  link: https://www.cora.fr/belfort/
+  job_title: Employé commercial/Hôte de caisse/Livreur
+  dates: Avril 2008-novembre 2017
+  quote: >
+         Achalandage et gestion des rayons épicerie, produits frais, crêmerie, liquide,DHP.
+         
+         Relation client en caisse et accueil. Préparation et livraison des commandes clients.
+         
+         Travail d'équipe et travail indépendant.
+    
+- layout: left
+  company: Commune de Montenois
+  link: 
+  job_title: employé communal (job d'été)
+  dates: Août 2007-septembre 2007
+  quote: >
+        Chargé de l'entretien des espaces verts, de la voirie, du rammassage des ordures ainsi que diverses fonctions attachées aux petites communes
