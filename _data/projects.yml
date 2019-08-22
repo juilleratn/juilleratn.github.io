@@ -1,9 +1,28 @@
 # Project template
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  name: Informatique
   quote: >
-    Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+      ![logo techno](http://jm.cartlamy.com/css/images/logo_html_css_js_php.png "logo techno")                     
+      ![logo phpmyadmin](https://rnxtras.com/wp-content/uploads/edd/2013/08/phpmyadmin_logo.png "phpmyadmin")      
+      ![logo github](https://www.ostraining.com/cdn/images/coding/github_logo_blog1.png "github")
+      
+- layout: top-middle
+  name: Langues
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+      ![français](http://sr.photos3.fotosearch.com/bthumb/CSP/CSP993/k15299823.jpg "français") Français
+      ![anglais](http://sr.photos3.fotosearch.com/bthumb/CSP/CSP992/k13575195.jpg "anglais")   Anglais
+      ![allemand](https://cdn.xl.thumbs.canstockphoto.fr/canstock15299840.jpg "allemand")     Allemand
+      
+- layout: top-middle
+  name: Permis&aptitudes
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+      Auto
+      
+      Bateau côtier
+      
+      Moto 125cm3
+      
+      Certificat tir FAMAS
